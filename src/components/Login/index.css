@@ -1,0 +1,34 @@
+.m-bg {
+  background-color: black;
+
+  padding: 40px;
+}
+
+.bg {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(15, 115, 203);
+  border-radius: 20px;
+  color: black;
+}
+.login-but {
+  width: 400px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  border-width: 0px;
+  border-radius: 10px;
+}
+
+.input-pin {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  border-width: 0px;
+}
+
+.error-msg {
+  color: red;
+  text-align: center;
+}

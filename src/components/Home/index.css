@@ -1,0 +1,13 @@
+.h-bg {
+  background-color: #152850;
+  padding: 30px;
+  color: white;
+  height: 100vh;
+  text-align: center;
+}
+
+.but-align {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
